@@ -3,59 +3,61 @@
 #
 
 # Site details (displayed in the header)
-author: Company
-name: Company Blog
-title: Company Blog
-description: A Description of the Blog
-keywords: "money, optimism, achievement"
-logo: images/logo.jpg
+author: De Vitaliteits Boutique
+name: De Vitaliteits Boutique Blog
+title: De Vitaliteits Boutique Blog
+description: "At De Vitaliteitsboutique, I help women boost their vitality from the inside out. By focusing on six essential areas – breathing, stress, sleep, nutrition, movement, and the immune system – I offer personal and practical guidance toward more energy, balance, and resilience. With care, calm, and a clear approach, I support women in feeling good in both body and mind."
+keywords: "Sleepcoach, Sleeptherapist, Hormone therapist, Hormone expert, Stress therapist, stress coach, breathing therapist, Holistic hormone coach, Vitality, Sleeping problems, Hormone problems, Menopause, PMS, Hormone balance, Sleep and hormones, Holistic therapist, insomnia, Women’s holistic health, Burnout prevention for women, Work-life balance for women"
+logo: images/logo.jpeg
 
 # Company details
 company:
   analytics:
-    google_id: TEST_ID
-    google_ads_id: TEST_ID
-    microsoft_clarity_id: TEST_ID
+    google_id: 
+    google_ads_id: 
+    microsoft_clarity_id: 
   cta:
-    text: "Visit our website"
-    url: "/"
+    text: "Learn More"
+    url: "https://www.haven51.nl/slaap-hormoon-oefentherapeut"
   socials:
-    youtube: "@username"
-    instagram: username
-    facebook: username
-    tiktok: "@username"
-    x: username
-    linkedin: in/username
-    pinterest: username
-    telegram: username
-    discord: username
-    github: username
-    email: test@test.com
-    phone: +4512345678
+    youtube: 
+    instagram: 
+    facebook: 
+    tiktok: 
+    x: 
+    linkedin: 
+    pinterest: 
+    telegram: 
+    discord: 
+    github: 
+    email: 
+    phone: 
   icon_size: "24"
   colors:
     main:
-      background: "#19191f"
-      foreground: "#f1f1f1"
+      background: "#157672"
+      foreground: "#edf1e8"
     body:
-      background: "#f1f1f1"
-      foreground: "#19191f"
-    accent: "#E74727"
+      background: "#157672"
+      foreground: "#edf1e8"
+    accent: "#edf1e8"
   fonts:
     google:
-      - "Roboto:ital,wght@0,100..900;1,100..900"
-    heading: "'Helvetica Neue', 'Roboto'"
-    body: "'Helvetica Neue', 'Roboto'"
+      - "Poppins:ital,wght@0,100..900;1,100..900"
+    heading: "'Poppins'"
+    body: "'Poppins'"
 
 # Navigation items
 navigation:
   header:
-    - title: "CTA"
-      url: "/"
-    - title: "CTA"
-      url: "/"
-    - title: "CTA"
-      url: "/"
+    - title: "Our Sleep Formula"
+      url: "https://devitaliteitsboutique.nl/slaapformule/"
+    - title: "1-on-1 Coaching"
+      url: "https://devitaliteitsboutique.nl/slaapproblemen-1-op-1-begeleiding/"
+    - title: "Get Instant Help"
+      url: "https://devitaliteitsboutique.nl/hulp-hormonale-klachten/"
+    - title: "Learn More"
+      url: "https://devitaliteitsboutique.nl/"
   footer:
     - title: "Terms and Conditions"
       url: "/terms-and-conditions"
@@ -66,7 +68,7 @@ navigation:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: https://127.0.0.1:4000/
+url: https://devitaliteitsboutique-blog.github.io/
 
 # Paginate after X amount of posts
 paginate: 10
@@ -80,7 +82,7 @@ paginate: 10
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
 # ONLY NECESSARY ON SUB-PAGE / GITHUB-BASED HOSTING
-baseurl: 
+baseurl: /DeVitaliteitsBoutique-Blog
 
 # Theme used as a base
 theme: jekyll-swiss

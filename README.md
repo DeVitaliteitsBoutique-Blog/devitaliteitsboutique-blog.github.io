@@ -1,1 +1,1 @@
-# Company Blog
+# De Vitaliteit Boutique Blog
