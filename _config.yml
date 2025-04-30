@@ -68,7 +68,7 @@ navigation:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: https://devitaliteitsboutique-blog.github.io/
+url: https://devitaliteitsboutique-blog.github.io
 
 # Paginate after X amount of posts
 paginate: 10
