@@ -38,8 +38,8 @@ company:
       background: "#157672"
       foreground: "#edf1e8"
     body:
-      background: "#157672"
-      foreground: "#edf1e8"
+      background: "#edf1e8"
+      foreground: "#157672"
     accent: "#edf1e8"
   fonts:
     google:

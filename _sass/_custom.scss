@@ -1,1 +1,17 @@
 // Add your custom SCSS here
+.prose a, .prose a:hover {
+    color: $color-body-foreground;
+}
+
+#cookie-consent-accept, #cookie-settings-save {
+    color: $color-body-background;
+    background-color: $color-body-foreground;
+}
+
+#cookie-consent-accept:hover, #cookie-settings-save:hover {
+    background-color: darken($color-body-foreground, 10%);
+}
+
+#cookie-consent-customize:hover, #cookie-consent-reject:hover {
+    background-color: darken($color-nav-link, 10%);
+}
